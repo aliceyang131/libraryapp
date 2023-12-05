@@ -1,6 +1,9 @@
 # Exclude the node_modules directory
 /03-frontend/react-library/node_modules/
 
+# Exclude specific files within the node_modules directory
+/03-frontend/react-library/node_modules/.cache/
+
 
 # Dependency directories
 /jspm_packages/
