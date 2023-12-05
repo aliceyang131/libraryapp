@@ -1,2 +1,10 @@
 # Node.js
 /node_modules/
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# OS generated files
+.DS_Store
+Thumbs.db
