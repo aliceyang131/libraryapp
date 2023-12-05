@@ -1,5 +1,6 @@
-# Node.js
-/node_modules/
+# Exclude the node_modules directory
+/03-frontend/react-library/node_modules/
+
 
 # Dependency directories
 /jspm_packages/
